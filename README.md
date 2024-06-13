@@ -8,7 +8,6 @@ I've been doing Web Development since 2021. I've also Co-Founded the [FlameGApps
 
 * 🌍  I'm based in West Bengal, India
 * ✉️  You can contact me at [ayandebnath@proton.me](mailto:ayandebnath@proton.me)
-* 🧠  I'm learning Svelte/SvelteKit & Go
 
 <a href="https://www.github.com/ayandebnath" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayandebnath?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
