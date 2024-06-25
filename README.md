@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been doing Web Development since 2021. I've also Co-Founded the [FlameGApps](https://github.com/flamegapps/flamegapps) Project.
+I've been doing Web Development since 2021. I've Co-Founded the [FlameGApps](https://github.com/flamegapps/flamegapps) Project.
 
 * 🌍  I'm based in West Bengal, India
 * ✉️  You can contact me at [ayandebnath@proton.me](mailto:ayandebnath@proton.me)
